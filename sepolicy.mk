@@ -26,4 +26,4 @@ BOARD_PLAT_PUBLIC_SEPOLICY_DIR += \
 BOARD_PLAT_PRIVATE_SEPOLICY_DIR += \
     device/qcom/sepolicy/private
 
--include device/syberia/sepolicy/qcom/sepolicy.mk
+-include device/beast/sepolicy/qcom/sepolicy.mk
